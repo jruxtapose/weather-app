@@ -1,0 +1,3 @@
+# web-template
+
+npm install
